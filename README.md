@@ -2,7 +2,7 @@
 
   Welcome to the repository for my Data Structures and Algorithms (DSA) assignments. This project contains various DSA implementations and solutions to problems using Python.
 
-# Assignments List
+## Assignments List
     1- Arrays
     2- Linked Lists
     3- Binary Search | Insertion Sort | Priority Queue
@@ -17,3 +17,5 @@
     12- Radix Sort | Merge Sort
     13- Hashing
 
+## Other Files
+  Other files contain some of my implementations (practices) of some data structures, that were not covered in the assignments. They include some fundamental concepts of DSA.
